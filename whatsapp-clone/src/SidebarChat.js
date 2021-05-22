@@ -1,5 +1,5 @@
 import React from 'react'
-import {Avatar, IconButton} from '@material-ui/core'
+import {Avatar} from '@material-ui/core'
 import "./SidebarChat.css"
 
 function SidebarChat() {
